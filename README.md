@@ -2,6 +2,7 @@
 -	node + express + react + +react-router + bootstrap + mongodb
 -	基于webpack进行资源构建
 -	基于npm scripts来集成开发命令
+
 ## 项目启动
 ```
 git clone https://github.com/vickyzhu2017/bookstore-reactJS.git
